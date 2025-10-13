@@ -61,6 +61,11 @@ import Button57 from './components/buttons/Button57';
 import Button58 from './components/buttons/Button58';
 import Button59 from './components/buttons/Button59';
 import Button60 from './components/buttons/Button60';
+import Button61 from './components/buttons/Button61';
+import Button62 from './components/buttons/Button62';
+import Button63 from './components/buttons/Button63';
+import Button64 from './components/buttons/Button64';
+import Button65 from './components/buttons/Button65';
 
 function App() {
   return (
@@ -132,6 +137,11 @@ function App() {
           <Button58 />
           <Button59 />
           <Button60 />
+      <Button61 />
+      <Button62 />
+      <Button63 />
+      <Button64 />
+      <Button65 />
         </div>
       </div>
     </div>
