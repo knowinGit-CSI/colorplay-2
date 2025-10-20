@@ -186,4 +186,3 @@ colorplay/
 
 ---
 
-**Happy Contributing! 🎉**
