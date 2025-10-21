@@ -1,11 +1,34 @@
-## Issue Name
-<Enter the issue number or title here>
+## 📝 Description
+Provide a clear and concise description of your changes and the related issue.
 
-## Participant Name
-<Your full name>
+**Issue ID:** #ISSUE_ID
 
-## Changes Made
-<Briefly describe the changes you made>
+---
 
-## Screenshots
-<Attach relevant screenshots if applicable>
+### 🔍 Changes Made
+- [ ] Updated dependencies  
+- [ ] Added/modified scripts  
+- [ ] UI changes  
+- [ ] API changes  
+- [ ] Database changes  
+- [ ] Other (specify below)
+
+---
+
+### 🖼️ Screenshots / UI Updates
+_Attach before/after screenshots or write N/A._
+
+---
+
+### ✅ Checklist
+- [ ] My code follows the project's coding standards  
+- [ ] Linked the correct issue ID  
+- [ ] Added necessary documentation (if applicable)  
+- [ ] Tested changes locally  
+- [ ] Updated/added relevant tests  
+- [ ] No new warnings/errors introduced  
+
+---
+
+### 🚀 Additional Notes
+_Add any extra context, details, or reviewer notes here._
