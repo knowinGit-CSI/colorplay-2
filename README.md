@@ -182,7 +182,7 @@ colorplay/
 ## 🙏 Acknowledgments
 
 - Thanks to all KnowGit 4.0 participants for their contributions!
-- Event orga   nized by CSI VNRVJIET
+- Event organized by CSI VNRVJIET
 
 ---
 
