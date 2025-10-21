@@ -25,3 +25,6 @@ yarn-error.log*
 
 # GitHub API scripts with tokens
 create_issues.ps1
+
+package-lock.json
+
